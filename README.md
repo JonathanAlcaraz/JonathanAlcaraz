@@ -1,6 +1,6 @@
 + My name is Jonathan
-+ I'm a grad student at UC Riverside
-+ I study math
++ I'm a mathematician
++ I graduated from UC Riverside in 2022
 + You can see more about me at my [website](https://math.jonathanalcaraz.com/).
 
 <!---
